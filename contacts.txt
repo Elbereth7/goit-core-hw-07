@@ -1,0 +1,4 @@
+Contact name: Maciej; phones: 1234567890, 7777777777, 6666666666; birthday: 18.05.1991
+Contact name: Natalia; phones: 0987654321, 8888888888; birthday: 18.05.1993
+Contact name: Karolina; phones: 1111111111
+Contact name: Anton; birthday: 23.05.1987
